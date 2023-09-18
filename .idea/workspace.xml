@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="013f66f1-68f9-442d-a9f0-ce86ecdbe913" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac1/taskA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac1/taskB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac1/taskC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac1/taskD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac1/taskE.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac2/taskA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac2/taskB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac2/taskC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac2/taskD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac2/taskE.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac3/taskA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac3/taskB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac3/taskC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac3/taskD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac3/taskE.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac4/taskA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac4/taskB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac4/taskC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac4/taskD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac4/taskE.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac5/taskA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac5/taskB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac5/taskC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac5/taskD.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac5/taskE.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2V7buPOhYP4WSWNcyiheLsbw4hd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/m1ke/git_repos/algotasks/src/main/kotlin/div2B"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/div2B" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/div2B/prac5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.TaskEKt">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="algotasks.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskEKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="div2B.prac5.TaskEKt" />
+      <module name="algotasks.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.TaskEKt" />
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="013f66f1-68f9-442d-a9f0-ce86ecdbe913" name="Changes" comment="" />
+      <created>1694190289617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694190289617</updated>
+      <workItem from="1694190291935" duration="5248000" />
+      <workItem from="1694201834631" duration="184000" />
+      <workItem from="1694368229903" duration="4972000" />
+      <workItem from="1694445927077" duration="13675000" />
+      <workItem from="1694505449090" duration="208000" />
+      <workItem from="1694529285127" duration="4225000" />
+      <workItem from="1694537523429" duration="12988000" />
+      <workItem from="1694586653485" duration="20000" />
+      <workItem from="1694591027464" duration="13239000" />
+      <workItem from="1694612111104" duration="12764000" />
+      <workItem from="1694775982983" duration="25517000" />
+      <workItem from="1694970553713" duration="8066000" />
+      <workItem from="1695030200246" duration="2192000" />
+      <workItem from="1695062640521" duration="5873000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Main.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/div2B/prac5/taskE.kt</url>
+          <line>30</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JetRunConfigurationType">
+        <watch expression="arr1" />
+        <watch expression="arr2" />
+        <watch expression="arr3" />
+        <watch expression="elemI" />
+        <watch expression="elemJ" />
+        <watch expression="arr3[curK].second" language="kotlin" />
+        <watch expression="curK" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
