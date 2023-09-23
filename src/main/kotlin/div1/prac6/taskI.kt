@@ -48,3 +48,5 @@ private fun countOfBrigades(pupils: List<Int>, brigadeSize: Int, maxDeltaInBriga
 
     return count
 }
+
+

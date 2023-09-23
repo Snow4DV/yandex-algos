@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="013f66f1-68f9-442d-a9f0-ce86ecdbe913" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div1/prac6/taskB.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div1/prac6/taskC.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div1/prac6/taskE.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div1/prac6/taskF.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div1/prac6/taskI.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div1/prac6/taskH.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div1/prac6/taskJ.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div1/prac6/taskK.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div1/prac6/taskKtest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/div1/prac6/taskA.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/div1/prac6/taskA.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/div1/prac6/taskI.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/div1/prac6/taskI.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,30 +61,9 @@
       <recent name="$PROJECT_DIR$/src/main/kotlin/div2B/prac5" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.TaskIKt">
-    <configuration name="TaskBKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="div1.prac6.TaskBKt" />
-      <module name="algotasks.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskCKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="div1.prac6.TaskCKt" />
-      <module name="algotasks.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskEKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="div1.prac6.TaskEKt" />
-      <module name="algotasks.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaskFKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="div1.prac6.TaskFKt" />
+  <component name="RunManager" selected="Kotlin.TaskKKt">
+    <configuration name="TaskHKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="div1.prac6.TaskHKt" />
       <module name="algotasks.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,13 +76,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TaskJKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="div1.prac6.TaskJKt" />
+      <module name="algotasks.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskKKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="div1.prac6.TaskKKt" />
+      <module name="algotasks.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskKtestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="div1.prac6.TaskKtestKt" />
+      <module name="algotasks.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TaskKKt" />
+        <item itemvalue="Kotlin.TaskKtestKt" />
+        <item itemvalue="Kotlin.TaskJKt" />
+        <item itemvalue="Kotlin.TaskHKt" />
         <item itemvalue="Kotlin.TaskIKt" />
-        <item itemvalue="Kotlin.TaskFKt" />
-        <item itemvalue="Kotlin.TaskEKt" />
-        <item itemvalue="Kotlin.TaskCKt (1)" />
-        <item itemvalue="Kotlin.TaskBKt (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +134,9 @@
       <workItem from="1695272526449" duration="6152000" />
       <workItem from="1695293413059" duration="7295000" />
       <workItem from="1695375044388" duration="9448000" />
-      <workItem from="1695385786627" duration="1032000" />
+      <workItem from="1695385786627" duration="3998000" />
+      <workItem from="1695483237882" duration="7796000" />
+      <workItem from="1695491718064" duration="1244000" />
     </task>
     <servers />
   </component>
@@ -181,6 +181,11 @@
           <url>file://$PROJECT_DIR$/src/main/kotlin/div1/prac6/taskF.kt</url>
           <line>21</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/div1/prac6/taskKtest.kt</url>
+          <line>44</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
