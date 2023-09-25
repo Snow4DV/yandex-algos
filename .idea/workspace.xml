@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="013f66f1-68f9-442d-a9f0-ce86ecdbe913" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div1/prac6/taskH.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div1/prac6/taskJ.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div1/prac6/taskK.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div1/prac6/taskKtest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac7/taskA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac7/taskB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac7/taskC.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac7/taskD1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac7/taskD2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div2B/prac7/taskE.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec/task73.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/div1/prac6/taskI.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/div1/prac6/taskI.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,50 +50,50 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/m1ke/git_repos/algotasks/src/main/kotlin/div1/prac6&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/m1ke/git_repos/algotasks/src/main/kotlin/div2B/prac7&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/div2B/prac7" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/lec" />
       <recent name="$PROJECT_DIR$/src/main/kotlin/div1/prac6" />
       <recent name="$PROJECT_DIR$/src/main/kotlin/div2B/prac6" />
-      <recent name="$PROJECT_DIR$/src/main/kotlin/lec" />
       <recent name="$PROJECT_DIR$/src/main/kotlin/div2B" />
-      <recent name="$PROJECT_DIR$/src/main/kotlin/div2B/prac5" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.TaskKKt">
-    <configuration name="TaskHKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="div1.prac6.TaskHKt" />
+  <component name="RunManager" selected="Kotlin.TaskEKt">
+    <configuration name="TaskBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="div2B.prac7.TaskBKt" />
       <module name="algotasks.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskIKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="div1.prac6.TaskIKt" />
+    <configuration name="TaskCKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="div2B.prac7.TaskCKt" />
       <module name="algotasks.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskJKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="div1.prac6.TaskJKt" />
+    <configuration name="TaskD1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="div2B.prac7.TaskD1Kt" />
       <module name="algotasks.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskKKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="div1.prac6.TaskKKt" />
+    <configuration name="TaskD2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="div2B.prac7.TaskD2Kt" />
       <module name="algotasks.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskKtestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="div1.prac6.TaskKtestKt" />
+    <configuration name="TaskEKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="div2B.prac7.TaskEKt" />
       <module name="algotasks.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.TaskKKt" />
-        <item itemvalue="Kotlin.TaskKtestKt" />
-        <item itemvalue="Kotlin.TaskJKt" />
-        <item itemvalue="Kotlin.TaskHKt" />
-        <item itemvalue="Kotlin.TaskIKt" />
+        <item itemvalue="Kotlin.TaskEKt" />
+        <item itemvalue="Kotlin.TaskD2Kt" />
+        <item itemvalue="Kotlin.TaskD1Kt" />
+        <item itemvalue="Kotlin.TaskCKt" />
+        <item itemvalue="Kotlin.TaskBKt" />
       </list>
     </recent_temporary>
   </component>
@@ -137,6 +139,13 @@
       <workItem from="1695385786627" duration="3998000" />
       <workItem from="1695483237882" duration="7796000" />
       <workItem from="1695491718064" duration="1244000" />
+      <workItem from="1695549167165" duration="15432000" />
+      <workItem from="1695583224023" duration="502000" />
+      <workItem from="1695584143900" duration="196000" />
+      <workItem from="1695620238648" duration="14850000" />
+      <workItem from="1695651803419" duration="10557000" />
+      <workItem from="1695668312794" duration="235000" />
+      <workItem from="1695677722989" duration="6576000" />
     </task>
     <servers />
   </component>
@@ -187,8 +196,48 @@
           <line>44</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/div2B/prac7/taskA.kt</url>
+          <line>26</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/div2B/prac7/taskC.kt</url>
+          <line>49</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/div2B/prac7/taskC.kt</url>
+          <line>83</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/div2B/prac7/taskC.kt</url>
+          <line>64</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/div2B/prac7/taskD2.kt</url>
+          <line>31</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/div2B/prac7/taskD2.kt</url>
+          <line>34</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JetRunConfigurationType">
+        <watch expression="event" />
+        <watch expression="segments[i]" language="kotlin" />
+        <watch expression="segments.subList(i, i+10).toString()" language="kotlin" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algotasks$TaskEKt__1_.ic" NAME="TaskEKt (1) Coverage Results" MODIFIED="1695298383420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
