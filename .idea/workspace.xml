@@ -5,42 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="013f66f1-68f9-442d-a9f0-ce86ecdbe913" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task10.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task11skipped.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task12.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task13.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task14.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task15.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task16.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task17.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task19.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task20.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task21.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task22.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task23.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task24.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task25.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task6.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task7.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task8.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task9.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task9slow.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec/task10heap.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec/task10heapwithchange.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec/task93.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec/task94.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec/taskdp1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec/taskdp2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec/taskdp3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec/taskdp4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task26.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task27.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task28.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task29.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task31.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task32.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task33.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task34.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task35.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task36.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task37.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task38.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task39.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task40.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lec/taskdp5turtlewithoutdebts.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/stuff/Solution.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/stuff/TreeRec.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/stuff/other.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/stuff/yarmarka.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task25.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task25.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,64 +60,77 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/m1ke/git_repos/algotasks/src/main/kotlin/div3B/prac0&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build algotasks.executor": "Run",
+    "Kotlin.OtherKt.executor": "Debug",
+    "Kotlin.Task31Kt.executor": "Run",
+    "Kotlin.Task32Kt.executor": "Run",
+    "Kotlin.Task33Kt.executor": "Run",
+    "Kotlin.Task34Kt.executor": "Run",
+    "Kotlin.Task35Kt.executor": "Run",
+    "Kotlin.Task36Kt.executor": "Run",
+    "Kotlin.Task38Kt.executor": "Run",
+    "Kotlin.Task40Kt.executor": "Run",
+    "Kotlin.TreeRecKt.executor": "Debug",
+    "Kotlin.YarmarkaKt.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/m1ke/git_repos/algotasks/src/main/kotlin/div3B/prac0",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/kotlin/div3B/prac0" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/stuff" />
       <recent name="$PROJECT_DIR$/src/main/kotlin/lec" />
       <recent name="$PROJECT_DIR$/src/main/kotlin/div3B/prac1" />
       <recent name="$PROJECT_DIR$/src/main/kotlin/div1/prac4" />
-      <recent name="$PROJECT_DIR$/src/main/kotlin/div1/prac3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/kotlin/stuff" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Task25Kt">
-    <configuration name="Task21Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="div3B.prac0.Task21Kt" />
+  <component name="RunManager" selected="Kotlin.Task40Kt">
+    <configuration name="Task35Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="div3B.prac0.Task35Kt" />
       <module name="algotasks.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task22Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="div3B.prac0.Task22Kt" />
+    <configuration name="Task36Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="div3B.prac0.Task36Kt" />
       <module name="algotasks.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task23Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="div3B.prac0.Task23Kt" />
+    <configuration name="Task38Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="div3B.prac0.Task38Kt" />
       <module name="algotasks.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task24Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="div3B.prac0.Task24Kt" />
+    <configuration name="Task40Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="div3B.prac0.Task40Kt" />
       <module name="algotasks.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task25Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="div3B.prac0.Task25Kt" />
+    <configuration name="YarmarkaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stuff.YarmarkaKt" />
       <module name="algotasks.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,13 +138,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Task25Kt" />
-        <item itemvalue="Kotlin.Task21Kt" />
-        <item itemvalue="Kotlin.Task24Kt" />
-        <item itemvalue="Kotlin.Task23Kt" />
-        <item itemvalue="Kotlin.Task22Kt" />
+        <item itemvalue="Kotlin.Task40Kt" />
+        <item itemvalue="Kotlin.Task38Kt" />
+        <item itemvalue="Kotlin.Task36Kt" />
+        <item itemvalue="Kotlin.YarmarkaKt" />
+        <item itemvalue="Kotlin.Task35Kt" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-jbr-17.0.9-f644763e9732-66248267" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -223,7 +228,32 @@
       <workItem from="1698985061313" duration="173000" />
       <workItem from="1699214735982" duration="490000" />
       <workItem from="1699376159640" duration="2187000" />
-      <workItem from="1699688406190" duration="3081000" />
+      <workItem from="1699688406190" duration="6053000" />
+      <workItem from="1699884212897" duration="967000" />
+      <workItem from="1699886128882" duration="33000" />
+      <workItem from="1700226510005" duration="10975000" />
+      <workItem from="1700303445460" duration="25000" />
+      <workItem from="1700542666478" duration="74000" />
+      <workItem from="1700663570397" duration="606000" />
+      <workItem from="1701432018334" duration="322000" />
+      <workItem from="1701433161717" duration="389000" />
+      <workItem from="1701876143552" duration="2927000" />
+      <workItem from="1701958543327" duration="23000" />
+      <workItem from="1701964158458" duration="20000" />
+      <workItem from="1702208536333" duration="601000" />
+      <workItem from="1702806489827" duration="2793000" />
+      <workItem from="1703333397236" duration="322000" />
+      <workItem from="1703483781763" duration="19000" />
+      <workItem from="1703483855975" duration="31000" />
+      <workItem from="1704371908666" duration="1511000" />
+      <workItem from="1704449739820" duration="982000" />
+      <workItem from="1704526411790" duration="18000" />
+      <workItem from="1705060424927" duration="11342000" />
+      <workItem from="1705244359729" duration="13000" />
+      <workItem from="1705275541275" duration="9668000" />
+      <workItem from="1705347275394" duration="12000" />
+      <workItem from="1705854900664" duration="10959000" />
+      <workItem from="1705906726840" duration="2699000" />
     </task>
     <servers />
   </component>
@@ -495,13 +525,68 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task25.kt</url>
-          <line>29</line>
+          <line>30</line>
           <option name="timeStamp" value="226" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task25.kt</url>
           <line>26</line>
           <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task26.kt</url>
+          <line>29</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task26.kt</url>
+          <line>25</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task27.kt</url>
+          <line>44</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task28.kt</url>
+          <line>30</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task29.kt</url>
+          <line>67</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/stuff/TreeRec.kt</url>
+          <line>6</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/stuff/TreeRec.kt</url>
+          <line>7</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task35.kt</url>
+          <line>29</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/stuff/yarmarka.kt</url>
+          <line>94</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task38.kt</url>
+          <line>56</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/div3B/prac0/task40.kt</url>
+          <line>47</line>
+          <option name="timeStamp" value="266" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -513,12 +598,6 @@
         <PinnedItemInfo parentTag="div2B.prac8.Tree" memberName="maxL" />
       </pinned-members>
     </pin-to-top-manager>
-    <watches-manager>
-      <configuration name="JetRunConfigurationType">
-        <watch expression="input.toString()" language="kotlin" />
-        <watch expression="heap.toString()" language="kotlin" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algotasks$TaskEKt__1_.ic" NAME="TaskEKt (1) Coverage Results" MODIFIED="1695298383420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

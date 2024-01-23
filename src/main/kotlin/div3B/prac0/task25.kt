@@ -26,6 +26,7 @@ fun main() {
         val var2 = dp[i-2] + abs(gv[i-1 - 1] - gv[i - 1])
         dp[i] = min(var1,var2)
     }
+    
 
     writer.println(dp.last())
 
